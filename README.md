@@ -1,5 +1,7 @@
 # Customer purchase prediction _ Online Shopping Mall
 
+[Click here to see detailed remark in report]('./wrapup/wrap_up.pdf')
+
 ### Overview
 
 Data driven approach in Machine Learning requires deep understanding of data itself. From Naver Boostcamp Ai Tech, students participate bootcamp to understand ongoing problems and tasks in the industry and apply up-to-date methodology based on corresponding prerequisite theories. 
@@ -40,3 +42,18 @@ Under given period in dataset, goal is to estimate probability. This is binary c
 * Model Selection: Validating model combination(LightGBM, XGBoost)
 * CV Strategy: random split stratefied k-fold
 * Ensemble: Average ensemble
+
+
+
+### File description
+
+* evaluation.py
+  Evaluates between ground truth csv file and predicted csv file
+* features.py
+  Feature considered in time series, customer purchase capacity
+* inference.py
+  Model training and inference process
+* submit.py
+  Automation to submit csv file to competition server
+* utils.py
+  Seed fixation, printing metrics  
