@@ -56,4 +56,4 @@ Under given period in dataset, goal is to estimate probability. This is binary c
 * submit.py
   Automation to submit csv file to competition server
 * utils.py
-  Seed fixation, printing metrics  
+  Seed fixation, printing metrics
