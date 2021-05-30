@@ -14,7 +14,7 @@ Online mall transaction data is provided with CSV tabular data. train and test d
 
 Under given period in dataset, goal is to estimate probability. This is binary classification problem in that prediction on total data based on previous contiguous months' activities. Probability describes whether each customer purchase total amount exceeds $200. Metric is AUC(Area Under Curve).
 
-![image-20210529211105843](C:\Users\JUNGHYUN LEE\AppData\Roaming\Typora\typora-user-images\image-20210529211105843.png)
+![image-20210529211105843](https://user-images.githubusercontent.com/28102768/120107500-31d47c00-c19c-11eb-91ce-e9e7e2372be3.png)
 
 #### train.csv
 
@@ -32,7 +32,7 @@ Under given period in dataset, goal is to estimate probability. This is binary c
 
 ### Machine Learning Pipeline
 
-![image-20210530115350142](C:\Users\JUNGHYUN LEE\AppData\Roaming\Typora\typora-user-images\image-20210530115350142.png)
+<img width="536" alt="pipline_tab" src="https://user-images.githubusercontent.com/28102768/120107459-0e113600-c19c-11eb-96b7-0ea515aec5c0.PNG">
 
 * EDA : Statistic features, reasoning data, feature correlation
 * Data Preprocessing: Missing value, Continuous feature to categorical feature, vice versa.
