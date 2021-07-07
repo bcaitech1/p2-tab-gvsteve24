@@ -1,6 +1,6 @@
 # Customer purchase prediction _ Online Shopping Mall
 
-[Click here to see detailed remark in report]('https://github.com/bcaitech1/p2-tab-gvsteve24/blob/master/wrapup/wrap_up.pdf')
+[Click here to see detailed remark in report](https://github.com/bcaitech1/p2-tab-gvsteve24/blob/master/wrapup/wrap_up.pdf)
 
 ### Overview
 
